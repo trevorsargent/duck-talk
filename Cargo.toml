@@ -1,0 +1,7 @@
+[package]
+name = "duck-talk"
+version = "0.1.0"
+authors = ["Trevor Sargent <trevor.a.sargent@gmail.com>"]
+edition = "2018"
+
+[dependencies]
